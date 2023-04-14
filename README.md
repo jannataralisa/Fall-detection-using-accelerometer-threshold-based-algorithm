@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @jannataralisa
-- 👀 I’m interested in data analysis and web development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on front end development 
-- 📫 How to reach me ...
-
-<!---
-jannataralisa/jannataralisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Human fall detection project by understanding the pattern using decision tree, K means nd clustering algortihm 
